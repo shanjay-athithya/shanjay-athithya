@@ -1,12 +1,11 @@
 <h1 align="center" style="font-size: 3.5em; color: #ff4d4d; font-weight: bold;">Hi 👋, I'm Shanjay Athithya G</h1>
 <h3 align="center" style="font-size: 1.8em; color: #ff4d4d;">Aspiring Full Stack Developer | Tech Enthusiast</h3>
 
-<!-- Fancy Red Divider -->
-<div align="center" style="margin: 20px 0;">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="divider" width="90%" style="filter: hue-rotate(0deg) saturate(10);"/>
+<div align="center">
+  <div style="display: inline-block; padding: 20px; background-color: rgba(255, 77, 77, 0.15); border-radius: 15px; box-shadow: 0 0 15px rgba(255, 77, 77, 0.6);">
+    <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="coding-gif" width="400" style="border-radius: 10px;"/>
+  </div>
 </div>
-
-<!-- Coding GIF with Red-themed Frame -->
 
 
 <p align="center" style="font-size: 1.3em; color: #333; margin: 20px 0;">
