@@ -1,16 +1,26 @@
-<h1 align="center">Hi 👋, I'm Shanjay Athithya G</h1>
-<h3 align="center">Aspiring Full Stack Developer | Tech Enthusiast</h3>
+<h1 align="center" style="font-size: 3em; color: #ff4d4d;">Hi 👋, I'm Shanjay Athithya G</h1>
+<h3 align="center" style="font-size: 1.5em; color: #ff4d4d;">Aspiring Full Stack Developer | Tech Enthusiast</h3>
 
----
+<!-- Fancy Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/61912971/158021967-586e7b1c-ff7b-4c36-bd2e-1e2eb88a9b26.gif" alt="divider" width="80%"/>
+</div>
 
 <!-- Intro GIF and About Section -->
 <div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="coding-gif" width="400"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="coding-gif" width="400" style="border-radius: 10px; margin-top: 20px;"/>
 </div>
 
-<p align="center" style="font-size: 20px;">💻 Passionate about building robust and scalable Web Applications using modern Tech stacks. Focused on creating meaningful User Experiences!</p>
+<p align="center" style="font-size: 1.2em; color: #333; margin: 20px 0;">
+  🚀 Passionate about building robust and scalable web applications with modern tech stacks.<br>
+  🎯 Focused on creating meaningful and immersive user experiences!
+</p>
 
----
+<!-- Secondary Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/61912971/158021967-586e7b1c-ff7b-4c36-bd2e-1e2eb88a9b26.gif" alt="divider" width="80%"/>
+</div>
+
 
 ### 👨‍💻 About Me
 - 🌱 Currently diving deeper into **Next.js** and **MERN**
