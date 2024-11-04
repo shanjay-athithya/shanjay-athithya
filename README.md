@@ -87,7 +87,7 @@
 - **React Basics** - META
 - **Django Essentials** - Coursera
 - **Programming with Java** - NPTEL
-- 
+
 
 ---
 
