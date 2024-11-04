@@ -3,15 +3,11 @@
 
 <!-- Fancy Red Divider -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://user-images.githubusercontent.com/61912971/158021967-586e7b1c-ff7b-4c36-bd2e-1e2eb88a9b26.gif" alt="divider" width="90%" style="filter: hue-rotate(0deg) saturate(10);"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="divider" width="90%" style="filter: hue-rotate(0deg) saturate(10);"/>
 </div>
 
 <!-- Coding GIF with Red-themed Frame -->
-<div align="center">
-  <div style="display: inline-block; padding: 20px; background-color: rgba(255, 77, 77, 0.15); border-radius: 15px; box-shadow: 0 0 15px rgba(255, 77, 77, 0.6);">
-    <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="coding-gif" width="400" style="border-radius: 10px;"/>
-  </div>
-</div>
+
 
 <p align="center" style="font-size: 1.3em; color: #333; margin: 20px 0;">
   🚀 Passionate about building robust and scalable web applications with modern tech stacks.<br>
@@ -64,10 +60,11 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img width="400" src="https://streak-stats.demolab.com/?user=shanjay-athithya&count_private=true&theme=react&border_radius=10"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=shanjay-athithya&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanjay-athithya&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"/>
+  <img width="400" src="https://streak-stats.demolab.com/?user=shanjay-athithya&count_private=true&theme=highcontrast&border_radius=10&fire=FF4D4D&ring=FF4D4D&currStreakLabel=FF4D4D&title_color=FF4D4D&text_color=FF4D4D"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=shanjay-athithya&show_icons=true&theme=dark&icon_color=FF4D4D&title_color=FF4D4D&text_color=FF4D4D&border_radius=10"/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanjay-athithya&hide=HTML&langs_count=8&layout=compact&theme=dark&title_color=FF4D4D&text_color=FF4D4D&border_radius=10"/>
 </div>
+
 
 ---
 
