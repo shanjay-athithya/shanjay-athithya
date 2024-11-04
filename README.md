@@ -1,24 +1,26 @@
-<h1 align="center" style="font-size: 3em; color: #ff4d4d;">Hi 👋, I'm Shanjay Athithya G</h1>
-<h3 align="center" style="font-size: 1.5em; color: #ff4d4d;">Aspiring Full Stack Developer | Tech Enthusiast</h3>
+<h1 align="center" style="font-size: 3.5em; color: #ff4d4d; font-weight: bold;">Hi 👋, I'm Shanjay Athithya G</h1>
+<h3 align="center" style="font-size: 1.8em; color: #ff4d4d; font-weight: normal;">Aspiring Full Stack Developer | Tech Enthusiast</h3>
 
 <!-- Fancy Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/61912971/158021967-586e7b1c-ff7b-4c36-bd2e-1e2eb88a9b26.gif" alt="divider" width="80%"/>
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
+  <img src="https://user-images.githubusercontent.com/61912971/158021967-586e7b1c-ff7b-4c36-bd2e-1e2eb88a9b26.gif" alt="divider" width="90%" />
 </div>
 
-<!-- Intro GIF and About Section -->
+<!-- New Coding GIF Layout -->
 <div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="coding-gif" width="400" style="border-radius: 10px; margin-top: 20px;"/>
+  <div style="display: inline-block; padding: 20px; background-color: rgba(255,77,77,0.1); border-radius: 15px; box-shadow: 0 0 15px rgba(255,77,77,0.4);">
+    <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="coding-gif" width="400" style="border-radius: 10px; margin-top: 20px;"/>
+  </div>
 </div>
 
-<p align="center" style="font-size: 1.2em; color: #333; margin: 20px 0;">
+<p align="center" style="font-size: 1.3em; color: #333; margin: 20px 0;">
   🚀 Passionate about building robust and scalable web applications with modern tech stacks.<br>
   🎯 Focused on creating meaningful and immersive user experiences!
 </p>
 
-<!-- Secondary Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/61912971/158021967-586e7b1c-ff7b-4c36-bd2e-1e2eb88a9b26.gif" alt="divider" width="80%"/>
+<!-- New Fancy Divider -->
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
+  <img src="https://user-images.githubusercontent.com/61912971/158021967-586e7b1c-ff7b-4c36-bd2e-1e2eb88a9b26.gif" alt="divider" width="90%" />
 </div>
 
 ### 👨‍💻 About Me
@@ -45,41 +47,42 @@
 
 ### 📈 Key Projects
 - **[Golden Pakkada](#)**: Web Application for Bakery
-- **[Beta](#)**: Chatbot for Job-related queries 
+- **[Beta](#)**: Chatbot for Job related queries 
 - **[NexGenFlow](#)**: Water Flow Management System
 - **[Remind It!](#)**: Task management tool and Firebase integration
 - **[BloodSync](#)**: Bloodbank Management System
 - **[Medhub](#)**: Hospital Management System
+
 ---
 
 ### 🚀 Tech Skills & Tools
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-FF4500?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-FF4500?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FF4500?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-FF4500?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-FF4500?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-FF4500?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-FF4500?style=for-the-badge&logo=django&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+ 
   <!-- Other Tools -->
-  <img src="https://img.shields.io/badge/TailwindCSS-FF4500?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-FF4500?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FF4500?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-FF4500?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-FF4500?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img width="400" src="https://streak-stats.demolab.com/?user=shanjay-athithya&count_private=true&theme=react&ring=FF4500&fire=FF4500&border_radius=10"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=shanjay-athithya&show_icons=true&theme=react&icon_color=FF4500&border_radius=10"/>
+  <img width="400" src="https://streak-stats.demolab.com/?user=shanjay-athithya&count_private=true&theme=react&border_radius=10"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=shanjay-athithya&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanjay-athithya&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"/>
 </div>
 
@@ -88,13 +91,13 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/shanjay-athithya-g-921852241/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/shanj_athithya?utm_source=qr&igshid=mthlnwy1mzqwna==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/shanjay_athithya/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FF4500?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
