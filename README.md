@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
+<h1 align="center">Hi 👋, I'm Shanjay Athithya G</h1>
 <h3 align="center" style="color: #E63946;">Aspiring Full Stack Developer</h3>
 
 <!-- Animated GIF -->
