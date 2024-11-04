@@ -103,16 +103,16 @@
 ---
 
 ### 💡 Fun Facts
-- 🎸 I’m also a passionate musician; I play the guitar!
-- 📚 Avid reader of sci-fi novels and technology blogs
+- 🏏 Cricket Enthusiast—I never miss a chance to hit the pitch!
+- 🎬 Sci-Fi Movie Buff—I'm always up for a journey through space, time, and alternate realities!
 - ☕ Coffee lover—can’t start my day without a cup!
 
 ---
 
 ### 🌱 Future Goals
-- 🔍 Exploring backend technologies and cloud integrations
-- 📱 Delve into cross-platform mobile development with React Native
-- 🌍 Looking forward to collaborating on open-source projects
+- 🔍 Exploring Backend Technologies and Cloud integrations
+- 📱 Delve into cross-platform Mobile Development with React Native
+- 🌍 Looking forward to collaborating on Open-source Projects
 
 ---
 
