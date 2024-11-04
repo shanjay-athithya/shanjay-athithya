@@ -61,8 +61,8 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img width="400" src="https://streak-stats.demolab.com/?user=shanjay-athithya&count_private=true&theme=highcontrast&border_radius=10&fire=FF4D4D&ring=FF4D4D&currStreakLabel=FF4D4D&title_color=FF4D4D&text_color=FF4D4D"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=shanjay-athithya&show_icons=true&theme=dark&icon_color=FF4D4D&title_color=FF4D4D&text_color=FF4D4D&border_radius=10"/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanjay-athithya&hide=HTML&langs_count=8&layout=compact&theme=dark&title_color=FF4D4D&text_color=FF4D4D&border_radius=10"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=shanjay-athithya&show_icons=true&theme=dark&icon_color=FF4D4D&title_color=FF4D4D&border_radius=10"/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanjay-athithya&hide=HTML&langs_count=8&layout=compact&theme=dark&title_color=FF4D4D&border_radius=10"/>
 </div>
 
 
