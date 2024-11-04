@@ -83,8 +83,11 @@
 ---
 
 ### 🏅 Achievements & Certifications
-- **Certified AWS Solutions Architect Associate** - Amazon AWS
-- **JavaScript Algorithms and Data Structures** - FreeCodeCamp
+- **Programming with JavaScript** - META
+- **React Basics** - META
+- **Django Essentials** - Coursera
+- **Programming with Java** - NPTEL
+- 
 
 ---
 
