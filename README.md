@@ -4,7 +4,7 @@
 
 <div align="center">
   <div style="display: inline-block; padding: 20px; background-color: rgba(255, 77, 77, 0.15); border-radius: 15px; box-shadow: 0 0 15px rgba(255, 77, 77, 0.6);">
-    <img src="https://raw.githubusercontent.com/Harsh-Singh-Rajput/Harsh-Singh-Rajput/master/animated.gif" alt="coding-gif" width="400" style="border-radius: 10px;"/>
+    <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding-gif" width="400" style="border-radius: 10px;"/>
   </div>
 </div>
 
